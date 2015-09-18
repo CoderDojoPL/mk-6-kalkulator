@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=size\ text\ font
+comment0.target=Wyswietlacz(java.awt.Point,\ java.lang.String,\ java.awt.Font)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=double\ pobierzLiczbe()
+comment3.params=liczbaDoZapamietania
+comment3.target=void\ zapamietajLiczbe(double)
+comment4.params=znak
+comment4.target=void\ zapamietajZnak(java.lang.String)
+comment5.params=nowaLiczba
+comment5.target=void\ wyswietlLiczbe(double)
+comment6.params=drugaLiczba
+comment6.target=void\ oblicz(double)
+numComments=7
